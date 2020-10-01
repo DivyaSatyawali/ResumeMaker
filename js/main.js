@@ -28,6 +28,9 @@ $('input[name="sectionToggle"]').change(function(){
 	toggleSection($(this).val(),$(this).is(':checked'));
 });
 
+function superlist(value){
+	$('supersublist').removeClass('btn-success');
+}
 
 function template(value)
 {
