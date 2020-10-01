@@ -283,3 +283,7 @@ td.header {
 #notice a {
 	color: #F1C40F;
 }
+.superlist {
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 2rem;
+}
